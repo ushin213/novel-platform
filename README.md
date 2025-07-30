@@ -38,3 +38,26 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+# Novel Platform
+
+https://novelplatform.vercel.app
+
+## 📘 概要
+小説を投稿・一覧表示し、DeepL翻訳APIを使って英語翻訳できるNext.jsアプリです。
+
+## 🛠 技術スタック
+- Next.js
+- Firebase Firestore
+- Tailwind CSS
+- DeepL API
+
+## 📌 特徴
+- 小説の投稿、削除、閲覧
+- 英語翻訳機能つき
+- モバイル対応
+
+## 👤 開発者
+- 名前：盧 雨晨
+- GitHub：https://github.com/ushin213
+
